@@ -38,7 +38,7 @@ var Instrucions = new Phaser.Class({
         const screenCenterY = this.cameras.main.worldView.y + this.cameras.main.height / 2;
 
         var help = [
-            'Relaciona los dominos',
+            'Relaciona los dominós',
             'con el número y su',
             'color',
         ];
